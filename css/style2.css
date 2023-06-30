@@ -179,6 +179,11 @@
         margin: 25px;
         padding-bottom: 20px;
     }
+    .section3_right p{
+        margin: 25px;
+        font-size: 19px;
+        line-height: 26px;
+    }
 
     #section4_wrap{
         width: 1300px;
