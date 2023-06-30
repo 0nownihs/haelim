@@ -87,6 +87,12 @@
         margin: 25px;
         padding-bottom: 20px;
     }
+    .section1_right p{
+        margin: 25px;
+        font-size: 20px;
+        line-height: 27px;
+    }
+    
     
     #section2_wrap{
         width: 1300px;
