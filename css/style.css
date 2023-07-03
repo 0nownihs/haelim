@@ -6,10 +6,11 @@
         font-size:14px;
         color:#000;
         line-height:24px;
+        background-color: white;
     }
     #header_wrap{
         width: 100%;
-        background-color: rgb(236, 202, 5);
+        background-color: red;
         margin: 0 auto;
         box-sizing: border-box;
         height: 270px;
