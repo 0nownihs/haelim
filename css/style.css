@@ -181,7 +181,7 @@
     #footer_wrap{
         width: 100%;
         height: 200px;
-        background-color: rgb(236, 202, 5);
+        background-color: red;
     }
     .footer{
         width: 1300px;
