@@ -95,8 +95,8 @@
         align-items: center;
         justify-content: center;
     }
-    .section1 img{
-        margin: 20px 0;
+    #section1 img:nth-child(1){
+        margin: 10px 0 15px 0;
     }
     #section2{
         width: 1300px;
@@ -105,7 +105,7 @@
         display: flex;
         justify-content: space-around;
         align-items: center;
-        margin-top: 50px;
+        margin-top: 80px;
     }
     .section2_left{
         width: 400px;
@@ -480,4 +480,5 @@ Note all DIVs are generated and should not be hard-coded
 	.vert .simply-scroll-btn-down:hover {}
 	
 	/* NOTE left-right classes wouldn't be needed on vertical scroller */
+
 
