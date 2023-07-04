@@ -55,7 +55,7 @@
         width: 1300px;
         margin: 0 auto;
         font-size: 30px;
-        line-height: 65px;
+        line-height: 60px;
         text-align: center;
     }
     #section1 h1{
@@ -67,9 +67,13 @@
         font-size: 40px;
         color: red;
         margin-bottom: 15px;
+        line-height: 80px;
     }
     .s1p1 span{
-        font-size: 60px;
+        font-size: 55px;
+    }
+    #section1 .s1p1 .s1p1s2{
+        font-size: 80px;
     }
 
 
