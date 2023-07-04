@@ -61,6 +61,13 @@
         justify-content: center;
         align-items: center;
     }
+    h1{
+        text-align: center;
+        margin: 65px 0;
+        font-size: 65px;
+        color: rgb(236, 202, 5);
+    }
+
     .section1{
         width: 1200px;
         height: 350px;
@@ -94,7 +101,6 @@
         font-size: 20px;
         line-height: 27px;
     }
-    
     
     #section2_wrap{
         width: 1300px;
@@ -192,6 +198,7 @@
         font-size: 19px;
         line-height: 26px;
     }
+    
 
     #section4_wrap{
         width: 1300px;
@@ -224,6 +231,7 @@
         margin: 25px;
         font-size: 25px;
         line-height: 32px;
+
     }
     .section4_right{
         width: 500px;
