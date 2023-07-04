@@ -70,6 +70,9 @@
     .section1_span:hover{
         color: red;
     }
+    .section1_span a:hover{
+        color: red;
+    }
     #section2{
         width: 1300px;
         margin: 0 auto;
