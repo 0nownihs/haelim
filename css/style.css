@@ -13,8 +13,6 @@
         width: 100%;
         background-color: rgb(236, 202, 5);
         margin: 0 auto;
-        box-sizing: border-box;
-        height: 270px;
     }
     .header_top{
         width: 1300px;
@@ -53,131 +51,28 @@
         color: rgb(227, 243, 0);
     }
 
-    #banner{
-        width: 1300px;
-        height: 600px;
-        margin: 0 auto;
-    }
-    #scroller{
-        list-style: none;
-    }
-
-    
     #section1{
         width: 1300px;
-        height: 450px;
         margin: 0 auto;
-        text-align: center;
-        margin-top: 50px;
-    }
-    #section1 h2{
-        font-size: 50px;
-        color: red;
-        
-    }
-    .section1_p1{
-        font-size: 20px;
-        line-height: 30px;
-        margin: 35px 0;
-    }
-    .section1_p2{
-        color: white;
-        border: 1px red solid;
-        border-radius: 15px;
-        background-color: red;
-        padding: 15px;
         font-size: 30px;
-        margin-top: 20px;
-        width: 800px;
-        height: 30px;
-        margin: 20px auto;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-    .section1 img{
-        margin: 20px 0;
-    }
-    #section2{
-        width: 1300px;
-        height: 300px;
-        margin: 0 auto;
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        margin-top: 50px;
-    }
-    .section2_left{
-        width: 400px;
-        height: 280px;
-        position: relative;
-        background: url(../img/about.png) no-repeat top right;
-        
-
-        
-    }
-    .section2_left p{
-        position: absolute;
-        bottom: 20px;
-        left: 20px;
-        font-size: 25px;
-        color: white;
-    }
-    .section2_middle{
-        width: 400px;
-        height: 280px;
-        position: relative;
-        background: url(../img/photo.png) no-repeat top right;
-    }
-    .section2_middle p{
-        position: absolute;
-        bottom: 20px;
-        left: 20px;
-        font-size: 25px;
-        color: white;
-    }
-    .section2_right{
-        width: 400px;
-        height: 280px;
-        position: relative;
-        background: url(../img/location.png) no-repeat top right;
-    }
-    .section2_right p{
-        position: absolute;
-        bottom: 20px;
-        left: 20px;
-        font-size: 25px;
-        color: white;
-    }
-
-    #section3{
-        width: 1300px;
-        margin: 0 auto;
-        height: 200px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-top: 50px;
-    }
-    .section3_left img{
-        width: 100px;
-        height: 100px;
-    }
-    .section3_middle{
-        margin: 0 30px;
-    }
-    .section3_middle p{
-        font-size: 40px;
+        line-height: 65px;
         text-align: center;
-        line-height: 40px;
     }
-    .section3_right p{
-        font-size: 70px;
-
+    #section1 h1{
+        font-size: 50px;
+        text-align: center;
+        margin: 70px 0;
     }
-    .section3_right p:hover{
+    .s1p1{
+        font-size: 40px;
         color: red;
+        margin-bottom: 15px;
     }
+    .s1p1 span{
+        font-size: 60px;
+    }
+
+
 
     #footer_wrap{
         width: 100%;
