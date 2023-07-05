@@ -11,11 +11,11 @@
     }
     #header_wrap{
         width: 100%;
-        background-image: url(../img/background.png);
         margin: 0 auto;
         box-sizing: border-box;
         height: 270px;
         background-color: rgb(236, 202, 5);
+	background-image: url(../img/background.png);
     }
     .header_top{
         width: 1300px;
